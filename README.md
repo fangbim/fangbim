@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Hypebim
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me @hypebim
+#  🥰 Inshallah Programmer 😆
 
 <!---
 Hypebim/Hypebim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
