@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently, I am learning about frontend web development using NextJS and am also interested in learning AI..<br>🎯 My goals are to become a highly skilled software developer and contribute significantly to the projects I work on.<br>🎲 Fun fact: I love playing games.</p>
+<p align="left">📚 Currently, I am learning more about Fullstack Web development and am also interested in AI.<br>🎯 My goals are to become a highly skilled software developer and contribute significantly to the projects I work on.</p>
 
 ###
 
